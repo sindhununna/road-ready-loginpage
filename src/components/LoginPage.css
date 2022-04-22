@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size:25px;
+    background-color: black;
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+  align-items:center;
+  justify-content: center;  
+  
+  }
+
+
+  input{
+  padding:3px;
+  font-size:15px;
+  margin:10px;
+  margin-top: 20px;
+  }
+  label{
+    display:flex !important;
+  justify-content: flex-start  !important;
+  }
+  .form-group{
+   
+    margin: 15px;
+    width: 250px;
+  }
+  
